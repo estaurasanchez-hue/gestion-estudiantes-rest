@@ -1,0 +1,5 @@
+com\umng\gestionestudiantes\controller\EstudianteController.class
+com\umng\gestionestudiantes\GestionEstudiantesApplication.class
+com\umng\gestionestudiantes\model\Estudiante.class
+com\umng\gestionestudiantes\service\EstudianteService.class
+com\umng\gestionestudiantes\repository\EstudianteRepository.class
